@@ -16,6 +16,7 @@ If you are a developer of a verifier application or service, you may use this li
 
 - Identify trusted issuers per the above requirements
 - Look up and display proper issuer names
+- Download and cache a single, aggregated copy of [all issuer's JWKS](/logs) to avoid connectivity problems. 
 
 The VCI Directory is licensed via CC BY 4.0. There are no additional terms or conditions for verifiers, but we do ask that you respect the VCI Verifier Code of Conduct, found at https://vci.org/about:
 
@@ -28,6 +29,7 @@ If you are a developer of a holder application or service, such as a Personal He
 
 - Identify trusted issuers per the above requirements
 - Look up and display proper issuer names
+- Download and cache a single, aggregated copy of [all issuer's JWKS](/logs) to avoid connectivity problems. 
 
 The VCI Directory is licensed via CC BY 4.0. There are no additional terms or conditions for verifiers, but we do ask that you follow SMART Health Card Design Guidelines for display and presentation provided [here](https://github.com/smart-on-fhir/health-cards-designs).
 
